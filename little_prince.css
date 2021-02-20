@@ -1,0 +1,16 @@
+.setRedandBold
+{
+    color: red;
+    font-weight: bold;
+}
+
+.setBackgroundOrange
+{
+    background-color: orange;
+}
+
+.setUnderline
+{
+    text-decoration-line: underline;
+    text-underline-color: black;
+}
